@@ -1,5 +1,6 @@
 /*
 PSEUDOCODE:
+
   Securing the vault
   The combination of lock should be 10 - 40 - 39
 
@@ -20,7 +21,6 @@ PSEUDOCODE:
 
     6. Submit the GitHub Repo for this workshop when you are done
 
-
 */
 
 // password setup
@@ -37,7 +37,7 @@ console.log(pass3)
 
   using let instead of const as passwords may change anytime required
 
-  console.log above to test if the equations lead to a correct number 
+  console.log above to test if the equations leads to a correct number 
 */
 
 const message = 'You have received this message because you have been chosen to open an important vault. Here is the secret combination: '
